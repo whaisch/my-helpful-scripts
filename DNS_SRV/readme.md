@@ -8,7 +8,7 @@ This script will query DNS servers and display __SIP and H.323__ DNS SRV records
 
 ##### How to use this script:
 
-I originally designed this script to query an internal and external DNS server to verify the DNS SRV records were returning the expected values. Running the script without any options will give a brief description of its inputs. Providing a domain name without any other operands will query the default DNS server for the records. When providing a domain name and __a single DNS server__, the script will query the records from the specified DNS server. When providing a domain name and __two DNS servers__, the script will query each server for the requested settings *(usually an internal DNS server and an external DNS server)*. Hopefully you will find this as helpful as I did. Enjoy!
+I originally designed this script to query an internal and external DNS server to verify the DNS SRV records were returning the expected values. Running the script without any options will give a brief description of its inputs. Providing a domain name without any other operands will query the default DNS server for the records. When providing a domain name and __*a single DNS server*__, the script will query the records from the specified DNS server. When providing a domain name and __*two DNS servers*__, the script will query each server for the requested settings *(usually an internal DNS server and an external DNS server)*. Hopefully you will find this as helpful as I did. Enjoy!
 
 ##### My DNS Haiku
 
