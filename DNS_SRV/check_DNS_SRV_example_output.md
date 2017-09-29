@@ -1,7 +1,8 @@
+``
 __$ ./check_SIP_H323_DNS_SRV_records.sh cisco.com__ \
 Checking DNS records ........  \
 Records from default DNS server: \
-   _h323cs._tcp.cisco.com has SRV record 10 10 1720 vcsgw.cisco.com.\ 
+   _h323cs._tcp.cisco.com has SRV record 10 10 1720 vcsgw.cisco.com. \
    _h323ls._udp.cisco.com has SRV record 10 10 1719 vcsgw.cisco.com. \
    _h323rs._udp.cisco.com SRV record does not exist. \
    _sip._tcp.cisco.com has SRV record 10 10 5060 vcsgw.cisco.com. \
@@ -43,3 +44,4 @@ Records from 4.2.2.4: \
    _sips._tls.cisco.com SRV record does not exist. \
    _sip._tls.cisco.com SRV record does not exist. \
 Results as of Thu Sep 28 17:10:46 CDT 2017 \
+``
